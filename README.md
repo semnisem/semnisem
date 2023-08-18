@@ -1,18 +1,17 @@
 <div align="center"> 
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=FBBCBA&height=140&section=header&text=-----&fontColor=F6546A&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=FBBCBA&height=140&section=header&text=Hi!&fontColor=F6546A&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20)
   ### 😃 Welcome to Sem's Github!
   <br>
 
-  #### ✔️ My stats
+  ### ✔️ My stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semnisem&theme=dracula&show_icons=true)
   <br><br>
 
-
-
-   #### 🧰 What I've used
+   ### 🧰 What I've used
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -27,11 +26,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br><br>
   
-  #### 🔭 I’m currently working on
+  ### 🔭 I’m currently working on
   ...updated later...
   <br><br>
   
-  #### 🌱 I’m currently learning
+  ### 🌱 I’m currently learning
   ...updated later...
   <br><br>
 
