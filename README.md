@@ -1,12 +1,11 @@
 <div align="center"> 
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=FBBCBA&height=140&section=header&text=Hi!&fontColor=F6546A&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20)
-  ### 😃 Welcome to Sem's Github!
-  <br>
+  <!--![header](https://capsule-render.vercel.app/api?type=wave&color=FBBCBA&height=140&section=header&text=Hi!&fontColor=F6546A&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20)-->
+  ### 😃 Hi, Welcome!
 
   ### ✔️ My stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semnisem&theme=dracula&show_icons=true)
-  <br><br>
+  <br>
 
    ### 🧰 What I've used
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -24,16 +23,15 @@
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <br><br>
+  <br>
   
   ### 🔭 I’m currently working on
-  ...updated later...
-  <br><br>
+  [오노(OnO)-손쉬운 나만의 진정한 오답노트]
+  <br>
   
   ### 🌱 I’m currently learning
-  ...updated later...
-  <br><br>
-
+  FMOps & LLMOps
+  <br>
 
  
 
@@ -51,9 +49,8 @@ Here are some ideas to get you started:
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=semin%Kim&theme=rogue)](https://github.com/semnisem/github-readme-activity-graph)
   <br><br>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Kubernets
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
