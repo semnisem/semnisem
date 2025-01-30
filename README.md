@@ -13,7 +13,7 @@ Enjoy building backend systems using Python and Java<br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=semnisem&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=semnisem&theme=dracula&show_icons=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=semnisem&theme=dracula&layout=compact&langs_count=8&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=semnisem&theme=dracula&langs_count=8" />
 </a>
 <br><br><br><br>
 
