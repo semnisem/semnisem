@@ -30,12 +30,13 @@
     </td>
   </tr>
   <tr>
-    <td width="450" align="center">
+    <td width="450">
       <a href="https://github.com/semnisem/HomeCode-BE" target="_blank">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semnisem&repo=HomeCode-BE" /></a>
+         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semnisem&repo=HomeCode-BE" />
+      </a>
       <a href="https://github.com/semnisem/HomeCode-FE" target="_blank">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semnisem&repo=HomeCode-FE" /></a>
-      
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semnisem&repo=HomeCode-FE" />
+      </a>
     </td>
     <td width="450" align="center">
       <a href="https://github.com/AI-SIP/.github/blob/main/profile/README.md" target="_blank">
