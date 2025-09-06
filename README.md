@@ -9,8 +9,24 @@
 >
 <!--<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">-->
 
+<br><br>
+### 🏆 Awards & Honors
+- <b>Outstanding Project Award in SSAFY 13th, Samsung Software Academy for Youth (Jun. 2025)</b>
+- Graduation Award for Excellence, Dongguk University, Korea (Feb. 2025)
+- <b>Outstanding Project Award in SW Maestro 15th, Ministry of Science and ICT, Korea (Dec. 2024)</b>
+- <b>2024 Summer ICIP & Capstone Design Results Presentation - College Award, Dongguk
+University, Korea (Jun. 2024)</b>
+- Honorable Entrance Scholarship, Dongguk University, Korea (Mar. 2021 ~ Dec. 2023)
 
-<br><br><br>
+<br><br>
+### 📄 Publications (domestic)
+1. <b>Semin Kim, Soohyun Oh, Minje Park, Jiho Lee, Moongi Seock, "Efficient Time-Series Data
+Anomaly Detection with a Lightweight TimesNet Model", 대한전자공학회 학술대회, (2024)</b>
+2. Minje Park, Jiho Lee, Soohyun Oh, Semin Kim, Soyeon Lee, Moongi Seok, "AAS-Driven
+Automated Code Generation for IoT Monitoring and AI Model Deployment on Kubernetes", 대한
+전자공학회 학술대회, (2024)
+
+<br><br>
 ### 🛠️ Featured Projects
 <table>
   <tr>
